@@ -1,14 +1,11 @@
-Free Download Source Code "laundry Management System"
 
-FIRST Download
+1.XAMPP and in XAMPP change the port number in config file to 3307
 
-1.XAMPP
-
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2.Also config port number to 3307 in php file 
 
 3"laundry_Management_System"
 
-4. Download the zip file/ download winrar
+4. Download the zip file
 
 5. Extract the file and copy "laundry_Management_System" folder
 
@@ -30,6 +27,3 @@ Create your own staff
 Admin
 user: admin
 pass: admin123
-
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
