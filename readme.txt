@@ -1,4 +1,4 @@
-
+##HOW TO RUN
 1.XAMPP and in XAMPP change the port number in config file to 3307
 
 2.Also config port number to 3307 in php file 
@@ -20,9 +20,7 @@
 7.Run the script http://localhost/laundry_Management_System
 
 
-**LOGIN DETAILS** 
-
-Create your own staff
+##LOGIN DETAILS
 
 Admin
 user: admin
