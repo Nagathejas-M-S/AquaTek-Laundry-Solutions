@@ -1,4 +1,4 @@
-# Laundry Management System
+# AquaTek-Laundry-Solutions
 
 ## How to Run the Project
 
